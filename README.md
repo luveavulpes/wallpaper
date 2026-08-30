@@ -1,6 +1,7 @@
 # Wallpapers I think look cool
 
-## I am not the author of most of them. 
+## !I am not the author of most of them!. 
+<p> This is my personnal collection some were yanked from https://wallhaven.cc and i created some the car collection on Gran Turismo 7 photo editor. Feel free to download them and apply them on your desktop<p>
 
 ### Retro collection
 ![Retro1](retro1.png)
@@ -17,6 +18,11 @@ Retro5
 Retro6
 ![Retro7](retro7.png)
 Retro7
+![Retro8](retro8.png)
+Retro8
+![Retro9](retro9.png)
+Retro9
+
 
 ### Car collection
 ![Car1](car1.jpeg)
